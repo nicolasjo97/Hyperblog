@@ -38,3 +38,10 @@ body
 {
     padding: 1em;
 }
+#footer 
+{
+    background: darkolivegreen;
+    color: white;
+    text-align: center;
+    padding: 0.5em;
+}
